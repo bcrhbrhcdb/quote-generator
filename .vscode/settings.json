@@ -1,0 +1,8 @@
+{
+    "Codegeex.Comment.LanguagePreference": "English",
+    "Codegeex.Explanation.LanguagePreference": "English",
+    "Codegeex.SidebarUI.LanguagePreference": "English",
+    "Codegeex.GenerationPreference": "automatic",
+    "Codegeex.OnlyKeyControl": false,
+    "Codegeex.Privacy": true
+}
